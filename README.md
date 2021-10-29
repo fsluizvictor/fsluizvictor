@@ -1,10 +1,6 @@
 ## Hello guys, I'm Luiz Victor, full-stack developer and student of computer engineering
 
-<div align="center">
-  <a href="https://github.com/fsluizvictor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsluizvictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsluizvictor&layout=compact&langs_count=25&theme=dark"/>
-</div>
+
   
   ## 
   
